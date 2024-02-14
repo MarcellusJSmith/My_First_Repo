@@ -5,3 +5,5 @@ I'm learning Python AI coding for
 * Computer applications
 * Online websites
 * Video games
+
+If you see this text, then that means I created a branch from this repo.
